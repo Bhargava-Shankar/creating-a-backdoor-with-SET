@@ -25,7 +25,8 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 ![image](https://github.com/Bhargava-Shankar/creating-a-backdoor-with-SET/assets/85554376/8706e0dc-e29e-4e87-91ad-fadd493bc1ce)
 
 
-It displays the following menu and select 2 for Website Attack Vectors:![image](https://github.com/Bhargava-Shankar/creating-a-backdoor-with-SET/assets/85554376/c79b4cda-c08e-4493-afc1-434947e57c70)
+It displays the following menu and select 2 for Website Attack Vectors:
+![image](https://github.com/Bhargava-Shankar/creating-a-backdoor-with-SET/assets/85554376/c79b4cda-c08e-4493-afc1-434947e57c70)
 
 
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
