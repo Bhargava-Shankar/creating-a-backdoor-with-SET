@@ -1,5 +1,4 @@
-# EX 7 Creating a Backdoor with SET
-creating a backdoor with SET - Ethical Hacking Techniques course
+# EX : 7 Creating a backdoor with Social Engineering Toolkit 
 
 # AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
